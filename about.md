@@ -13,4 +13,4 @@ If you'd like to get a more in-depth view of my projects, feel free to check the
 
 
 
-(The source code for the "Leaf" Jekyll theme can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>)
+(The source code for the "Leaf" Jekyll theme that this site is run on can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>)
