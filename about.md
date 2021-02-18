@@ -10,7 +10,3 @@ I am currently working as a graduate research assistant for the <a href="https:/
 Prior to this, I received a B.S. in Industrial Engineering, also from the University of Massachusetts Amherst. During my undergraduate career, I was able to explore many  
 
 If you'd like to get a more in-depth view of my projects, feel free to check them out on my <a href="https://github.com/jhancock75">GitHub</a> page.
-
-
-
-(The source code for the "Leaf" Jekyll theme that this site is run on can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>)
