@@ -3,10 +3,12 @@ title: About
 layout: page
 ---
 
-My name is Jake, I am pursuing a Master's in Business I am interested in innovative technology 
+My name is Jake, I am interested in innovative technology 
 
-If you'd like to check out what other members in my research lab are doing, you can got to the <a href="https://narslab.org/projects/">Network for Accessibility, Resilience, and Sustainability Lab</a> website 
+I am currently working as a graduate research assistant for the <a href="https://narslab.org/">Network for Accessibility, Resilience, and Sustainability Lab (NARS Lab)</a> while pursuing a Master's in Business & Analytics at University of Massachusetts Amherst. My lab focuses on  Prior to this, I received a B.S. in Industrial Engineering, also from University of Massachusetts Amherst. 
+
+If you'd like to get a more in-depth view of my projects, feel free to check them out on my <a href="https://github.com/jhancock75">GitHub</a> page.
 
 
 
-The source code for this theme can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+(The source code for the "Leaf" Jekyll theme can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>)
