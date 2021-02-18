@@ -3,8 +3,10 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+My name is Jake, I am pursuing a Master's in Business I am interested in innovative technology 
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+If you'd like to check out what other members in my research lab are doing, you can got to the <a href="https://narslab.org/projects/">Network for Accessibility, Resilience, and Sustainability Lab</a> website 
 
-(Change this by editing `about.md` file)
+
+
+The source code for this theme can be found at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
