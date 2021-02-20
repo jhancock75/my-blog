@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-My name is Jake Hancock, I am interested in innovative technology that seeks to improve the world, especially in regards to sustainability and healthcare. 
+My name is Jake Hancock and I am interested in innovative technology that seeks to improve the world, especially in regards to sustainability and healthcare. 
 
 I am currently working as a graduate research assistant for the <a href="https://narslab.org/">Network for Accessibility, Resilience, and Sustainability Lab (NARS Lab)</a> while pursuing a Master's in Business & Analytics at the University of Massachusetts Amherst. My lab focuses on advancing methods in network science, data mining, machine learning and simulation to analyze complex systems, with the end objective of developing resilient and sustainable communities. My research specifically involves developing an interpretable machine learning framework that can accurately predict electrical energy usage in clusters of buildings, such as a college campus.
 
