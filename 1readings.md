@@ -3,7 +3,7 @@ title: Readings
 layout: page
 ---
 
-Here's a list of research papers, articles, or websites that I think are worth reading:
+Here's a list of research papers, articles, or websites that I think are worth checking out:
 
 <a href="https://www.bloomberg.com/news/articles/2021-02-19/covid-pandemic-how-youyang-gu-used-ai-and-data-to-make-most-accurate-prediction">The 27-Year-Old Who Became a Covid-19 Data Superstar</a> 
 
